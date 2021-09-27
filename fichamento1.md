@@ -8,12 +8,16 @@ Atualmente, personas é uma das formas mais objetivas e práticas para obter dad
 
 ## 2. Fichamento Bibliográfico
 
-Persona Designer é uma ferramenta que pode ser usada para representar os diferentes tipos de perfis de persona.
-Data Driven é usado para dizer que possui uma base sólida que é passiva de decisões invés de suposições.
-Software Development é desenvolver ou implementar um sistema computacional.
+**Persona Designer** é uma ferramenta que pode ser usada para representar os diferentes tipos de perfis de persona.
+
+**Data Driven** é usado para dizer que possui uma base sólida que é passiva de decisões invés de suposições.
+
+**Software Development** é desenvolver ou implementar um sistema computacional.
 
 ## 3. Fichamento de Citações 
 
 “Personas were popularized by Cooper (1999) as research-based fictional archetypes modelled from real users.”
+
 “The data used for persona development comprised of semi-structured interviews from a sample of older adults from 20 households living under different circumstances throughout Denmark.”
+
 “DOC uses random sampling to obtain approximated optimal clusters (Procopiuc et al. 2002). Let the entire data set be denoted by S.”
